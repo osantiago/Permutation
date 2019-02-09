@@ -1,0 +1,11 @@
+D:\Core Examples\IsPermutation\bin\Debug\netcoreapp2.1\IsPermutation.deps.json
+D:\Core Examples\IsPermutation\bin\Debug\netcoreapp2.1\IsPermutation.runtimeconfig.json
+D:\Core Examples\IsPermutation\bin\Debug\netcoreapp2.1\IsPermutation.runtimeconfig.dev.json
+D:\Core Examples\IsPermutation\bin\Debug\netcoreapp2.1\IsPermutation.dll
+D:\Core Examples\IsPermutation\bin\Debug\netcoreapp2.1\IsPermutation.pdb
+D:\Core Examples\IsPermutation\obj\Debug\netcoreapp2.1\IsPermutation.csprojAssemblyReference.cache
+D:\Core Examples\IsPermutation\obj\Debug\netcoreapp2.1\IsPermutation.csproj.CoreCompileInputs.cache
+D:\Core Examples\IsPermutation\obj\Debug\netcoreapp2.1\IsPermutation.AssemblyInfoInputs.cache
+D:\Core Examples\IsPermutation\obj\Debug\netcoreapp2.1\IsPermutation.AssemblyInfo.cs
+D:\Core Examples\IsPermutation\obj\Debug\netcoreapp2.1\IsPermutation.dll
+D:\Core Examples\IsPermutation\obj\Debug\netcoreapp2.1\IsPermutation.pdb
